@@ -24,6 +24,6 @@ Services
     - [ ]  전원허브
     - [ ]  전원 c타입
 ---
-/k8s
+/k8s_test
 - docker desktop kubernetes를 이용해서 쿠버네티스 사용해보기
 - yml파일 및 kubectl 공부
