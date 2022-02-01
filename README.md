@@ -23,3 +23,7 @@ Services
     - [ ]  다중 쿨러 케이스
     - [ ]  전원허브
     - [ ]  전원 c타입
+---
+/k8s
+- docker desktop kubernetes를 이용해서 쿠버네티스 사용해보기
+- yml파일 및 kubectl 공부
