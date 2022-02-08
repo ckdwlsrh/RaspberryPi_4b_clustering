@@ -2,10 +2,12 @@
 
 Raspberry 4b 4gb : 2  
 Raspberry 400 : 1
+micro sd 64gb : 3
+
 
 ---
 
-just planning
+2/7 ubuntu server 20.04 설치완료
 
 ---
 Services
