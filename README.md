@@ -7,7 +7,9 @@ micro sd 64gb : 3
 
 ---
 
-2/7 ubuntu server 20.04 설치완료
+2/7 ubuntu server 20.04 설치완료   
+2/9 무선 네트워크 설정중 다 시도해봣으나   아직 안됨 유선랜으로 해야될듯 wpa_supplicant ? netplan ? 다 시도해보고 country도 시도해봄 이거 
+    
 
 ---
 Services
